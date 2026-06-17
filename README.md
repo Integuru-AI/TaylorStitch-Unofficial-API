@@ -4,9 +4,9 @@ Unofficial Python integrations for TaylorStitch.
 
 ## Integrations
 
-- `taylorstitch_add_to_cart.py` - `add_to_cart` (2 live events).
-- `taylorstitch_list_orders.py` - `list_orders` (2 live events).
-- `taylorstitch_list_new_arrivals.py` - `list_new_arrivals` (1 live events).
+- `taylorstitch_add_to_cart.py` - `add_to_cart`.
+- `taylorstitch_list_orders.py` - `list_orders`.
+- `taylorstitch_list_new_arrivals.py` - `list_new_arrivals`.
 
 ## Usage
 
@@ -21,8 +21,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
