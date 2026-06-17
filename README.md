@@ -4,9 +4,9 @@ Unofficial Python integrations for TaylorStitch.
 
 ## Integrations
 
-- `taylorstitch_add_to_cart.py` - `add_to_cart` (2 live events).
-- `taylorstitch_list_orders.py` - `list_orders` (2 live events).
-- `taylorstitch_list_new_arrivals.py` - `list_new_arrivals` (1 live events).
+- `taylorstitch_add_to_cart.py` - `add_to_cart`.
+- `taylorstitch_list_orders.py` - `list_orders`.
+- `taylorstitch_list_new_arrivals.py` - `list_new_arrivals`.
 
 ## Usage
 
